@@ -15,7 +15,7 @@ ________________________________________________________________________________
 🏆 CERTIFICATIONS  
 
  Python Essentials 1 – Cisco Networking Academy  
-📌 
+📌 https://github.com/JidnyaNandanwar8/EDS_PYTHON/blob/main/python_essential_1.png?raw=true
 
  Python Essentials 2 – Cisco Networking Academy  
 📌 Uploading `python_essential_2.png`  
