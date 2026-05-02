@@ -8,7 +8,8 @@ https://youtu.be/Rd-mHwwojlA?si=1_gz4A_7yrqDm7aq
 
 🏆 Certifications  
 Python Essentials 1 – Cisco Networking Academy  
-Python_Essentials_1.pdf
+![Uploading image.png…]()
+
 
 Python Essentials 2 – Cisco Networking Academy  
 
