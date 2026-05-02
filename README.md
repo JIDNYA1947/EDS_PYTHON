@@ -12,6 +12,7 @@ https://github.com/JidnyaNandanwar8/EDS_PYTHON/blob/main/python_essential_1.png?
 
 
 Python Essentials 2 – Cisco Networking Academy  
+![Uploading python_essential_2.png…]()
 
 
 📂 Concepts Covered  
