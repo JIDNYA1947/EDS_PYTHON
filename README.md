@@ -1,31 +1,44 @@
-🧠 Tuples in Python  
+ 🧠 TUPLES IN PYTHON  
+
 This project provides a beginner-friendly explanation of tuples in Python, which are used to store multiple items in a single variable using an ordered and immutable structure.
 
 It includes a clear video explanation along with verified certifications.
 
-🎥 Video Explanation  
-https://youtu.be/Rd-mHwwojlA?si=1_gz4A_7yrqDm7aq
+___________________________________________________________________________________________________________________________________________________________________
 
-🏆 Certifications  
-Python Essentials 1 – Cisco Networking Academy  
-https://github.com/JidnyaNandanwar8/EDS_PYTHON/blob/main/python_essential_1.png?raw=true
+ 🎥 VIDEO EXPLANATION  
 
+📌 https://youtu.be/Rd-mHwwojlA?si=1_gz4A_7yrqDm7aq  
 
-Python Essentials 2 – Cisco Networking Academy  
-![Uploading python_essential_2.png…]()
+___________________________________________________________________________________________________________________________________________________________________
 
+🏆 CERTIFICATIONS  
 
-📂 Concepts Covered  
-Creating Tuples  
-Accessing Elements  
-Indexing and Slicing  
-Immutable Nature of Tuples  
-Tuple Methods (count, index)  
+ Python Essentials 1 – Cisco Networking Academy  
+📌 https://github.com/JidnyaNandanwar8/EDS_PYTHON/blob/main/python_essential_1.png?raw=true  
 
-🚀 How to Use  
-Watch the video for explanation  
-Go through examples (if added)  
-Practice creating your own tuples  
+ Python Essentials 2 – Cisco Networking Academy  
+📌 Uploading `python_essential_2.png`  
 
-📌 About
+___________________________________________________________________________________________________________________________________________________________________
+
+ 📂 CONCEPTS COVERED  
+
+- Creating Tuples  
+- Accessing Elements  
+- Indexing and Slicing  
+- Immutable Nature of Tuples  
+- Tuple Methods (count, index)  
+___________________________________________________________________________________________________________________________________________________________________
+
+ 🚀 HOW TO USE  
+
+1. Watch the video for explanation  
+2. Go through examples (if added)  
+3. Practice creating your own tuples  
+___________________________________________________________________________________________________________________________________________________________________
+
+ 📌 ABOUT  
+
 This project is created as part of learning and explaining core Python concepts in a simple and practical way.
+___________________________________________________________________________________________________________________________________________________________________
