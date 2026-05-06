@@ -20,6 +20,9 @@ ________________________________________________________________________________
  Python Essentials 2 – Cisco Networking Academy  
 📌 https://github.com/JidnyaNandanwar8/EDS_PYTHON/blob/main/python_essential_2.png?raw=true
 
+ The importance of data visualisation-
+ https://github.com/JIDNYA1947/EDS_PYTHON/blob/main/the%20importance%20of%20data%20visualisation.png?raw=true
+
 ___________________________________________________________________________________________________________________________________________________________________
 
  📂 CONCEPTS COVERED  
